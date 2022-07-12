@@ -1,3 +1,4 @@
 My name used to be Ajay.
 My name has always been Ajay.
 I am about to check git stashing.
+I have successfully tested git stashing.
